@@ -1,5 +1,5 @@
 
-# 🔥 zerobase_51일완주반
+# 🔥 zerobase_51완주반_python 기초 & 심화
 
 ### ◻ [Python 기초](https://github.com/oiosu/zerobase_51-/tree/main/python_%EA%B8%B0%EC%B4%88)
 
